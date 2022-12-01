@@ -9,3 +9,10 @@ p {
   letter-spacing: 2rem;
   text-align: center;
 }
+
+.data {
+  background-image: url("/HTML/img/gambar1.jpg");
+  height: 800px;
+  width: 800px;
+  background-repeat: no-repeat;
+}
